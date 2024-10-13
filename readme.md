@@ -67,8 +67,8 @@ Link đổi sang Hex: https://www.hexator.com/ <br>
 ***
 # Lab 2: Blind SQLi
 
-- Link to lab```https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses```
-- Link tải Burp Suite```https://portswigger.net/burp/communitydownload```
+- Link to lab: https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
+- Link tải Burp Suite: https://portswigger.net/burp/communitydownload
 
 
 
