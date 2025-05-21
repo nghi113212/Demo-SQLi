@@ -17,7 +17,7 @@ Ví dụ:
 
 ## Bước 3:
 Mình sẽ lấy trang web mình tìm được:
-http://www.igoergo.com/_site/products.php?cat=02
+<!--http://www.igoergo.com/_site/products.php?cat=02-->
 - Xác định số cột <br></br>
 ```order by 1-- -``` nếu web vẫn bình thường hãy thử lại với số cao hơn! <br>
 ```order by 3-- -``` web sẽ xảy ra lỗi => Điều này có nghĩa số cột cần tìm > 1 và < 2.<br>
